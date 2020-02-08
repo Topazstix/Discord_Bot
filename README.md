@@ -1,0 +1,1 @@
+These files are skeleton files until we modify them, they are the bare minimum that we need to run a bot, AUTH.json is the token authentication script, package.json is the list of dependencies and the meet and potatos it the js file
